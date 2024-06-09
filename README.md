@@ -18,7 +18,7 @@ This Python script implements a simple Pac-Man game using the Minimax algorithm 
 
 2. Run the script:
     ```bash
-    python pacman.py
+    python packman.py
     ```
 
 ## How It Works

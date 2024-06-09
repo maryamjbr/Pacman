@@ -13,7 +13,7 @@ This Python script implements a simple Pac-Man game using the Minimax algorithm 
 1. Clone the repository:
     ```bash
     git clone https://github.com/maryamjbr/Pacman.git
-    cd pacman-minimax
+    cd Pacman
     ```
 
 2. Run the script:
